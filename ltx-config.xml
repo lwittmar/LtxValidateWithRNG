@@ -1,0 +1,6 @@
+<xproc-config xmlns="http://xmlcalabash.com/ns/configuration"
+              xmlns:ltx="http://le-tex.de/tools/validate">
+
+	<implementation type="ltx:validate-files" class-name="LtxValidateWithRNG"/>
+
+</xproc-config>
